@@ -1,4 +1,3 @@
 # RefsTools
 
-RefsTools read the refs.bib and write a refs.bbl file for various physics journals.
-See the example directory for more information.
+a reference tool process refs.bib to generate a refs.bbl file.
